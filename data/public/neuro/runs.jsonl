@@ -1,1 +1,2 @@
 {"day": "2026-09-25", "at": "2026-09-25T16:13:07Z", "backend": "typesafe", "model": "jev-1.13.0", "fetched": 1, "judged": 1, "failed": 0, "must_read": 1, "maybe": 0, "skip": 0, "excluded": 0, "input_tokens": 849, "cost_usd": 3.6e-05, "seconds": 0.6}
+{"day": "2026-09-28", "source_failures": [], "at": "2026-09-28T07:55:41Z", "backend": "typesafe", "model": "jev-1.13.0", "fetched": 24, "judged": 24, "failed": 0, "must_read": 1, "maybe": 0, "skip": 23, "excluded": 0, "input_tokens": 22577, "cost_usd": 0.000948, "seconds": 5.5}
